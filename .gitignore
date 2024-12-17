@@ -1,0 +1,61 @@
+# Eclipse project files
+.project
+.classpath
+.settings/
+.metadata/
+.buildpath
+
+# Build directories
+target/
+bin/
+
+# Dependency libraries
+lib/
+*.jar
+
+# Maven specific (if applicable)
+.m2/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle specific (if applicable)
+.gradle/
+build/
+
+# Logs
+*.log
+log/
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.backup
+
+# Compiled class files
+*.class
+
+# Cache files
+*.cache
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Environment specific
+.env
+application.properties
+application.yml
+application-local.properties
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
